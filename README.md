@@ -45,3 +45,6 @@ The app needs an internet connection to load products.
 
 ## Screenshots
 See the `screenshots/` folder.
+
+## Platforms
+Runs on Android and web (flutter run -d chrome). APK not included because no Android SDK was available on my machine.
